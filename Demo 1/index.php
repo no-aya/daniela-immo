@@ -5,19 +5,19 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Les sens de l'immobilier by Daniela – Agence immobilière à Marrakesh</title>
+	<title>Les sens de l'immobilier by Daniela | Agence immobilière à Marrakesh</title>
 
 	<!-- SEO
 	============================================= -->
-	<meta name="description" content="Découvrez notre large sélection de villas luxueuses à Marrakech, pour location ou vente, et profiter d'un éxpérience unique lors de votre séjour dans la ville ocre." />
+	<meta name="description" content="Découvrez notre large sélection de propriétés luxueuses à Marrakech, pour location ou vente, et profiter d'un éxpérience unique au coeur de la ville ocre." />
 	<link rel="canonical" href="index.php" />
 	<meta property="og:locale" content="fr_FR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Les sens de l'immobilier by Daniela – Agence immobilière à Marrakesh" />
-	<meta property="og:description" content="Découvrez notre large sélection de villas luxueuses à Marrakech, pour location ou vente, et profiter d'un éxpérience unique lors de votre séjour dans la ville ocre." />
+	<meta property="og:description" content="Découvrez notre large sélection de propriétés luxueuses à Marrakech, pour location ou vente, et profiter d'un éxpérience unique au coeur de la ville ocre." />
 	<meta property="og:url" content="index.php" />
-	<meta property="og:site_name" content="Marrakech Majestic By KNA" />
-	<meta property="og:image" content="assets/logo/magestic-villa-white.png" />
+	<meta property="og:site_name" content="Les sens de l'immobilier by Daniela" />
+	<meta property="og:image" content="assets/logo/logo-dana-3.png" />
 	<!-- #SEO end -->
 
 	<?php include("components.html"); ?>
@@ -138,7 +138,7 @@
 						<h3>En vedette</h3>
 					</div>
 
-					<a href="location-villa-marrakech.php" class="button button-small button-rounded button-border button-border-thin fw-medium m-0" style="position: absolute; top: 7px; right: 0;">Voir toutes les villas</a>
+					<a href="location-villa-marrakech.php" class="button button-small button-rounded button-border button-border-thin fw-medium m-0" style="position: absolute; top: 7px; right: 0;">Voir toutes les propriétés</a>
 
 					<div class="real-estate owl-carousel image-carousel carousel-widget bottommargin-lg" data-margin="10" data-nav="true" data-loop="true" data-pagi="false" data-items-xs="1" data-items-sm="1" data-items-md="2" data-items-lg="3" data-items-xl="3">
 
@@ -146,7 +146,7 @@
 							<div class="real-estate-item">
 								<div class="real-estate-item-image">
 									<div class="badge bg-danger bg-color4">Achat</div>
-									<a href="villa.php">
+									<a href="riad.php">
 										<img src="https://daniela.immo/wp-content/uploads/2021/06/89f1a5e9-c8b3-41a2-a0fb-f0cb429d6d56-488x326.jpg" alt="Image 1">
 									</a>
 									<div class="real-estate-item-price">
@@ -158,19 +158,28 @@
 								</div>
 
 								<div class="real-estate-item-desc">
-									<h3><a href="villa.php">Duplex entièrement <br>rénové de 240M²</a></h3>
+									<h3><a href="riad.php">Duplex entièrement <br>rénové de 240M²</a></h3>
 									<span>Victor Hugo</span>
 
-									<a href="villa.php" class="real-estate-item-link"><i class="icon-info"></i></a>
+									<a href="riad.php" class="real-estate-item-link"><i class="icon-info"></i></a>
 
 									<div class="line" style="margin-top: 15px; margin-bottom: 15px;"></div>
 
 									<div class="real-estate-item-features fw-medium clearfix">
 										<p>Magnifique duplex 240 mètres carrés 3 chambres 3 salles d’eau à côté de Victor Hugo entièrement rénové ,cuisine hyper… </p>
 										<div class="row g-0">
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-bed"></i> Chambres: <span class="color">3</span></div>
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-bathtub i-xlarge"></i> Salles de bain: <span class="color">3</span></div>
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-plan2"></i> Surface :<span class="color"> 240 m²</span></div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-bed i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1">5 Chambres</h5>
+											</div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-bathtub i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1">3 Salles de bain</h5>
+											</div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-plan2 i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1"> 240 m²</h5>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -181,7 +190,7 @@
 							<div class="real-estate-item">
 								<div class="real-estate-item-image">
 									<div class="badge bg-danger bg-color3">Location longue durée</div>
-									<a href="villa.php">
+									<a href="riad.php">
 										<img src="https://daniela.immo/wp-content/uploads/2021/06/13bf3913-a3ed-482b-81d1-2279d8369f9b-488x326.jpg" alt="Image 1">
 									</a>
 									<div class="real-estate-item-price">
@@ -193,19 +202,28 @@
 								</div>
 
 								<div class="real-estate-item-desc">
-									<h3><a href="villa.php">Très belle Villa sur 1040 m²<br>de terrain-duplicate-1</a></h3>
+									<h3><a href="riad.php">Très belle Villa sur 1040 m²<br>de terrain-duplicate-1</a></h3>
 									<span>Targa</span>
 
-									<a href="villa.php" class="real-estate-item-link"><i class="icon-info"></i></a>
+									<a href="riad.php" class="real-estate-item-link"><i class="icon-info"></i></a>
 
 									<div class="line" style="margin-top: 15px; margin-bottom: 15px;"></div>
 
 									<div class="real-estate-item-features fw-medium clearfix">
 										<p>Construite sur 1040 m² de terrain et situé dans un endroit calme et réservé au quartier Targa... </p>
 										<div class="row g-0">
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-bed"></i> Chambres: <span class="color">5</span></div>
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-bathtub i-xlarge"></i> Salles de bain: <span class="color">4</span></div>
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-plan2"></i> Surface :<span class="color"> 600 m²</span></div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-bed i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1">5 Chambres</h5>
+											</div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-bathtub i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1">4 Salles de bain</h5>
+											</div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-plan2 i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1"> 600 m²</h5>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -216,7 +234,7 @@
 							<div class="real-estate-item">
 								<div class="real-estate-item-image">
 									<div class="badge bg-danger bg-color4">Achat</div>
-									<a href="villa.php">
+									<a href="riad.php">
 										<img src="https://daniela.immo/wp-content/uploads/2021/05/e9b6f5fc-7c4f-4ba5-9e48-0452945254c8-488x326.jpg" alt="Image 1">
 									</a>
 									<div class="real-estate-item-price">
@@ -228,19 +246,28 @@
 								</div>
 
 								<div class="real-estate-item-desc">
-									<h3><a href="villa.php">Très joli Riad à Bab Doukkala <br>de 210m²</a></h3>
+									<h3><a href="riad.php">Très joli Riad à Bab Doukkala <br>de 210m²</a></h3>
 									<span>Bab Doukkala</span>
 
-									<a href="villa.php" class="real-estate-item-link"><i class="icon-info"></i></a>
+									<a href="riad.php" class="real-estate-item-link"><i class="icon-info"></i></a>
 
 									<div class="line" style="margin-top: 15px; margin-bottom: 15px;"></div>
 
 									<div class="real-estate-item-features fw-medium clearfix">
 										<p>Très joli Riad a Bab Doukala, patio ,avec une grande terrasse de 120m² 4 chambres 4 salles de bains une cuisine…</p>
 										<div class="row g-0">
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-bed"></i> Chambres: <span class="color">4</span></div>
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-bathtub i-xlarge"></i> Salles de bain: <span class="color">4</span></div>
-											<div class="col-lg-12 pt-2"><i class="icon-realestate-plan2"></i> Surface :<span class="color"> 2 800 000 m²</span></div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-bed i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1">4 Chambres</h5>
+											</div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-bathtub i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1">4 Salles de bain</h5>
+											</div>
+											<div class=" col-4 center">
+												<i class="icon-realestate-plan2 i-plain i-large mx-auto mb-0"></i>
+												<h5 class="my-1"> 210 m²</h5>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -257,7 +284,7 @@
 							<h3 class="fw-normal ls1">Pour toute demande visite des lieux et des propriétés</h3>
 						</div>
 						<div class="col-12 col-lg-auto mt-4 mt-lg-0">
-							<a href="#" class="button button-dark button-large button-rounded m-0">Contactez-nous</a>
+							<a href="contact.php" class="button button-dark button-large button-rounded m-0">Contactez-nous</a>
 						</div>
 					</div>
 				</div>
@@ -290,7 +317,7 @@
 									<div class="testi-content">
 										<p>3 semaines sans relâche, daniela nous à fait visiter des maisons dans le tout marrakech et cerise sur le gâteau nous avons finalement trouver notre bonheur.</p>
 										<div class="testi-meta">
-										Pierre & Colette Durieux
+											Pierre & Colette Durieux
 											<span>Clients</span>
 										</div>
 									</div>
@@ -379,7 +406,7 @@
 				<div class="promo promo-dark bg-color bottommargin-lg p-4">
 					<div class="row align-items-center">
 						<div class="col-12 col-lg-auto mt-4 mt-lg-0">
-							<a href="#" class="button button-dark button-large button-rounded m-0 center;" style="line-height: 22px;">Contactez-nous<br><span style="font-size:0.8em;">pour en savoir plus</span> </a>
+							<a href="contact.php" class="button button-dark button-large button-rounded m-0 center;" style="line-height: 22px;">Contactez-nous<br><span style="font-size:0.8em;">pour en savoir plus</span> </a>
 						</div>
 						<div class="col-12 col-lg">
 							<h3 class="fw-normal ls1">Vous pouvez vous faire financer votre projet au Maroc même si vous êtes étranger !</h3>
@@ -387,24 +414,24 @@
 					</div>
 				</div>
 				<div class="flip-card text-center top-to-bottom">
-								<div class="flip-card-front dark" style="background-image: url('https://daniela.immo/wp-content/uploads/2020/12/EE9A3821-2-Copie.jpg')">
-									<div class="flip-card-inner">
-										<div class="card bg-transparent border-0 text-center">
-											<div class="card-body">
-											<img src="https://daniela.immo/wp-content/uploads/2020/12/DF-CONCEPT-IMMOBILIER-2.0-1.png" alt="">
-												<h3 class="card-title">Découvrez notre afilière</h3>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="flip-card-back bg-color2 no-after">
-									<div class="flip-card-inner">
+					<div class="flip-card-front dark" style="background-image: url('https://daniela.immo/wp-content/uploads/2020/12/EE9A3821-2-Copie.jpg')">
+						<div class="flip-card-inner">
+							<div class="card bg-transparent border-0 text-center">
+								<div class="card-body">
 									<img src="https://daniela.immo/wp-content/uploads/2020/12/DF-CONCEPT-IMMOBILIER-2.0-1.png" alt="">
-										<p class="mb-2 text-white">Si vous souhaitez construire, rénover, aménager, modifier, améliorer, réaliser une promotion immobilière, nous nous engageons à vous aider.</p>
-										<a href="https://daniela.immo/df-concept/"><button type="button" class="btn btn-outline-light mt-2">Savoir plus</button></a>
-									</div>
+									<h3 class="card-title">Découvrez notre afilière</h3>
 								</div>
 							</div>
+						</div>
+					</div>
+					<div class="flip-card-back bg-color2 no-after">
+						<div class="flip-card-inner">
+							<img src="https://daniela.immo/wp-content/uploads/2020/12/DF-CONCEPT-IMMOBILIER-2.0-1.png" alt="">
+							<p class="mb-2 text-white">Si vous souhaitez construire, rénover, aménager, modifier, améliorer, réaliser une promotion immobilière, nous nous engageons à vous aider.</p>
+							<a href="https://daniela.immo/df-concept/"><button type="button" class="btn btn-outline-light mt-2">Savoir plus</button></a>
+						</div>
+					</div>
+				</div>
 			</div>
 			<div class="line"></div>
 			<div class="row align-items-stretch mx-0 bottommargin-sm">
@@ -412,13 +439,13 @@
 					<div style="padding: 40px;">
 						<h4 class="font-body fw-semibold ls1">Les Sens de l’immobilier Marrakech</h4>
 						<div style="font-size: 15px; line-height: 1.7;">
-						Pour mieux comprendre votre projet de vie, nous prenons le temps d’analyser votre besoin et d’y répondre. Nous ne travaillons pas pour nous, mais pour vous. Nous communiquons de manière transparente… tout simplement parce que nous nous engageons vraiment !
+							Pour mieux comprendre votre projet de vie, nous prenons le temps d’analyser votre besoin et d’y répondre. Nous ne travaillons pas pour nous, mais pour vous. Nous communiquons de manière transparente… tout simplement parce que nous nous engageons vraiment !
 						</div>
 						<div style="font-size: 15px; line-height: 1.7;">
 							<br>
 							<h4 class="font-body fw-semibold ls1">Siège social :</h4>
 							<address style="line-height: 1.7;">
-							Immeuble centre d'affaires, bureau N°12, 2e étage, <br>Angle Abdelkrim El Khattabi et Moulay Rachid - Marrakech ( 40000 )<br><br>
+								Immeuble centre d'affaires, bureau N°12, 2e étage, <br>Angle Abdelkrim El Khattabi et Moulay Rachid - Marrakech ( 40000 )<br><br>
 								<abbr title="Phone Number"><strong>Télephone :</strong></abbr>+212 677 85 85 90<br>
 								<abbr title="Phone Number"><strong>Whatsapp :</strong></abbr>+212 677 85 85 90<br>
 								<abbr title="Email Address"><strong>Email: </strong></abbr> danielamdragoste@gmail.com
@@ -434,8 +461,8 @@
 		</div>
 	</section><!-- #content end -->
 	<?php include("footer.html") ?>
-	
-	
+
+
 	<script>
 		jQuery(document).ready(function() {
 

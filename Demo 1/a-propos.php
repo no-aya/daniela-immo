@@ -12,11 +12,11 @@
 
 		<!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark page-title-center include-header include-topbar" style="background: url('assets/images/location-villa-marrakech-amelkis-vmaamel512-1.jpg') no-repeat center center / cover; padding: 140px 0;" data-center="background-position: 0px 50%;" data-top-bottom="background-position:0px 0px;">
+		<section id="page-title" class="page-title-parallax page-title-dark page-title-center include-header include-topbar" style="background: url('https://daniela.immo/wp-content/uploads/2020/12/Capture-d’écran-2020-12-07-à-13.12.12.png') no-repeat center center / cover; padding: 140px 0;" data-center="background-position: 0px 50%;" data-top-bottom="background-position:0px 0px;">
 
 			<div class="container clearfix">
 				<h1>à propos</h1>
-				<?php include("breadcrumb.html")?>
+				<?php include("quicklink.html")?>
 			</div>
 
 			<div class="video-wrap" style="position: absolute; top: 0; left: 0; height: 100%; z-index:1;">
@@ -35,8 +35,8 @@
 
 					<div class="heading-block border-0 mw-100">
 						<h2 class="mb-4">QUI SOMMES- NOUS?</h2>
-						<p class="lead">Marrakech c'est les beaux paysages, la magie de la médina et la cuisine à s'en lécher les doigts. C'est aussi le style de vie, le confort et le luxe de séjourner dans l’une des villes les plus féériques au monde. Nous avons voulu transmettre notre passion pour la ville, c’est pourquoi nous avons collecté les meilleurs villas, plutôt des oeuvres d’arts, dans tous les coins de Marrakech, depuis le centre de la médina jusqu'aux environs, pour vous présenter ce que c’est un vrai séjour à Marrakech, pour ajouter la touche de perfection à vos vacances et vous faire vivre des moments inoubliables.
-						<br>Que vous ayez envie d’une location à courte ou longue durée, ou bien vous cherchez à acheter une villa pour s’établir, comptez sur nous et notre équipe d'expertise pour s’en occuper. 
+						<p class="lead">Marrakech c'est les beaux paysages, la magie de la médina et la cuisine à s'en lécher les doigts. C'est aussi le style de vie, le confort et le luxe de séjourner dans l’une des villes les plus féériques au monde. Nous avons voulu transmettre notre passion pour la ville, c’est pourquoi nous avons collecté les meilleurs propriétés, plutôt des oeuvres d’arts, dans tous les coins de Marrakech, depuis le centre de la médina jusqu'aux environs, pour vous présenter ce que c’est un vrai séjour à Marrakech, pour ajouter la touche de perfection à vos vacances et vous faire vivre des moments inoubliables.
+						<br>Que vous ayez envie d’une location à courte ou longue durée, ou bien vous cherchez à acheter une villa, un riad ou même un appartement pour s’établir, comptez sur nous et notre équipe d'expertise pour s’en occuper. 
 						</div>
 				</div>
 
@@ -69,7 +69,7 @@
 											Nos principes
 										</div>
 									</div>
-									<div class="accordion-content">Chez l'agence KNA, notre activité est basée sur la construction des bonnes relations : notre relation avec vous et votre relation avec la ville. Nous croyons fermement à une approche personnalisée et à l'écoute des besoins et des désirs des gens.</div>
+									<div class="accordion-content">Chez Les sens de l'immobilier by Daniela, notre activité est basée sur la construction des bonnes relations : notre relation avec vous et votre relation avec la ville. Nous croyons fermement à une approche personnalisée et à l'écoute des besoins et des désirs des gens.</div>
 
 									<div class="accordion-header">
 										<div class="accordion-icon">
@@ -104,7 +104,7 @@
 								</div>
 							</div>
 							<div class="col-md-6 ms-auto">
-								<img src="assets/images/60b4f80c7441e4daa.jpg" alt="Image">
+								<img src="https://daniela.immo/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-08-at-22.43.14-5-680x510.jpeg" alt="Image">
 							</div>
 						</div>
 					</div>
