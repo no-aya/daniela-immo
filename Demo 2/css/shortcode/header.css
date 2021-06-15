@@ -7,7 +7,8 @@
 
 /*logo*/
 .logo {
-  padding: 13px 0;
+  width: 123px;
+  margin-left: 56px;
 }
 
 /*company-info*/
@@ -36,9 +37,10 @@
   font-family: montserrat;
   line-height: 15px;
   margin-bottom: 5px;
+  color: white;
 }
 .header-info p {
-  color: #606060;
+  color: #a2a2a2;
   font-size: 12px;
   font-weight: 300;
   line-height: 12px;
@@ -55,9 +57,9 @@
     width: 18%;
 }
 .header-search input {
-  border: 1px solid #1f223e;
+  border: 1px solid #a2a2a2;
   box-shadow: none;
-  color: #303030;
+  color: #a2a2a2;
   float: left;
   font-weight: 300;
   height: 30px;
@@ -66,19 +68,19 @@
   width: 82%;
 }
 .header-search input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: #303030;
+  color: #a2a2a2;
   opacity: 1;
 }
 .header-search input::-moz-placeholder { /* Firefox 19+ */
-  color: #303030;
+  color: #a2a2a2;
   opacity: 1;
 }
 .header-search input:-ms-input-placeholder { /* IE 10+ */
-  color: #303030;
+  color: #a2a2a2;
   opacity: 1;
 }
 .header-search input:-moz-placeholder { /* Firefox 18- */
-  color: #303030;
+  color: #a2a2a2;
   opacity: 1;
 }
 
@@ -100,7 +102,7 @@
 	position: relative;
 }
 /*.main-menu > li > a {
-  color: #303030;
+  color: #a2a2a2;
   display: block;
   padding: 40px 20px;
   text-transform: uppercase;
@@ -230,7 +232,7 @@
   color: #95c41f;
 }
 .transparent-header.sticky{
-	background: rgba(255, 255, 255, 1);
+	background: rgba(31, 34, 62, 0.9);
 	box-shadow: 0 1px 3px rgba(50, 50, 50, 0.4)
 }
 /*Sticky Menu*/
@@ -244,7 +246,7 @@
   box-shadow: 0 1px 3px rgba(50, 50, 50, 0.4);
 }
 .sticky .main-menu > li > a {
-  color: #303030;
+  color: #fff;
   font-size: 14px;
   padding: 18px 0;
 }
@@ -261,8 +263,8 @@
 .sticky .sticky-logo img {
   display: block;
   float: left;
-  padding: 10px 0;
-  width: 70px;
+  width: 71px;
+  margin-left: 64px;
 }
 
 

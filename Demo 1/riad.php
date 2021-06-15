@@ -8,12 +8,12 @@
 	<!-- SEO
 	============================================= -->
 	<meta name="description" content=">Villa au cadre reposant doté de hamam et sauna à louer dans un domaine privé, terrain 4000 m², piscine, hamam, sauna, meublé" />
-	<link rel="canonical" href="villa.php" />
+	<link rel="canonical" href="riad.php" />
 	<meta property="og:locale" content="fr_FR" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Villa au cadre reposant doté de hamam et sauna - Marrakech Majestic " />
 	<meta property="og:description" content="Très joli Riad a Bab Doukala de 210 m²" />
-	<meta property="og:url" content="villa.php" />
+	<meta property="og:url" content="riad.php" />
 	<meta property="og:site_name" content="Les sens de l'immobilier by Daniela" />
 	<meta property="og:image" content="https://daniela.immo/wp-content/uploads/2021/05/e9b6f5fc-7c4f-4ba5-9e48-0452945254c8-1079x720.jpg" />
 	<!-- #SEO end -->
@@ -199,7 +199,7 @@
 							<div class="real-estate-item">
 								<div class="real-estate-item-image">
 									<div class="badge bg-danger bg-color4">Achat</div>
-									<a href="villa.php">
+									<a href="riad.php">
 										<img src="https://daniela.immo/wp-content/uploads/2021/06/89f1a5e9-c8b3-41a2-a0fb-f0cb429d6d56-488x326.jpg" alt="Image 1">
 									</a>
 									<div class="real-estate-item-price">
@@ -211,10 +211,10 @@
 								</div>
 
 								<div class="real-estate-item-desc">
-									<h3><a href="villa.php">Duplex entièrement <br>rénové de 240M²</a></h3>
+									<h3><a href="riad.php">Duplex entièrement <br>rénové de 240M²</a></h3>
 									<span>Victor Hugo</span>
 
-									<a href="villa.php" class="real-estate-item-link"><i class="icon-info"></i></a>
+									<a href="riad.php" class="real-estate-item-link"><i class="icon-info"></i></a>
 
 									<div class="line" style="margin-top: 15px; margin-bottom: 15px;"></div>
 
@@ -243,7 +243,7 @@
 							<div class="real-estate-item">
 								<div class="real-estate-item-image">
 									<div class="badge bg-danger bg-color3">Location longue durée</div>
-									<a href="villa.php">
+									<a href="riad.php">
 										<img src="https://daniela.immo/wp-content/uploads/2021/06/13bf3913-a3ed-482b-81d1-2279d8369f9b-488x326.jpg" alt="Image 1">
 									</a>
 									<div class="real-estate-item-price">
@@ -255,10 +255,10 @@
 								</div>
 
 								<div class="real-estate-item-desc">
-									<h3><a href="villa.php">Très belle Villa sur 1040 m²<br>de terrain-duplicate-1</a></h3>
+									<h3><a href="riad.php">Très belle Villa sur 1040 m²<br>de terrain-duplicate-1</a></h3>
 									<span>Targa</span>
 
-									<a href="villa.php" class="real-estate-item-link"><i class="icon-info"></i></a>
+									<a href="riad.php" class="real-estate-item-link"><i class="icon-info"></i></a>
 
 									<div class="line" style="margin-top: 15px; margin-bottom: 15px;"></div>
 
@@ -287,7 +287,7 @@
 							<div class="real-estate-item">
 								<div class="real-estate-item-image">
 									<div class="badge bg-danger bg-color4">Achat</div>
-									<a href="villa.php">
+									<a href="riad.php">
 										<img src="https://daniela.immo/wp-content/uploads/2021/05/e9b6f5fc-7c4f-4ba5-9e48-0452945254c8-488x326.jpg" alt="Image 1">
 									</a>
 									<div class="real-estate-item-price">
@@ -299,10 +299,10 @@
 								</div>
 
 								<div class="real-estate-item-desc">
-									<h3><a href="villa.php">Très joli Riad à Bab Doukkala <br>de 210m²</a></h3>
+									<h3><a href="riad.php">Très joli Riad à Bab Doukkala <br>de 210m²</a></h3>
 									<span>Bab Doukkala</span>
 
-									<a href="villa.php" class="real-estate-item-link"><i class="icon-info"></i></a>
+									<a href="riad.php" class="real-estate-item-link"><i class="icon-info"></i></a>
 
 									<div class="line" style="margin-top: 15px; margin-bottom: 15px;"></div>
 
